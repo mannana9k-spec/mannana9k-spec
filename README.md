@@ -107,19 +107,6 @@ Developed ETL pipelines and interactive Tableau dashboards to support retail and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannana9k-spec&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannana9k-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannana9k-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 - 🟡 **Google Professional Machine Learning Engineer**
