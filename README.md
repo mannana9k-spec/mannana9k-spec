@@ -1,6 +1,14 @@
-# Hi there, I'm Abdul Mannan 👋
+<h1 align="center">Hi there, I'm Abdul Mannan 👋</h1>
 
-**Senior AI/ML & Data Engineer** with 8+ years of experience building scalable data platforms and production-grade AI systems across finance, healthcare, retail, and entertainment. I specialize in end-to-end data pipelines, GenAI/RAG architectures, and MLOps — turning raw data into real business impact at massive scale.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Senior+AI%2FML+Engineer+%F0%9F%A4%96;Data+Engineer+%7C+Big+Data+Architect+%F0%9F%8F%97%EF%B8%8F;GenAI+%26+RAG+Pipeline+Builder+%F0%9F%94%97;Agentic+AI+%26+Multi-Agent+Systems+%F0%9F%A7%A0;MLOps+%7C+AWS+%7C+Databricks+Expert+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Senior AI/ML & Data Engineer</b> with 8+ years of experience building scalable data platforms and production-grade AI systems across finance, healthcare, retail, and entertainment. I specialize in end-to-end data pipelines, GenAI/RAG architectures, and MLOps — turning raw data into real business impact at massive scale.
+</p>
 
 ---
 
@@ -57,6 +65,20 @@
 
 ---
 
+## 🌱 Currently Learning & Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multimodal%20LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphRAG-00897B?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reasoning%20Models-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+> 🚀 Deepening expertise in next-gen agentic frameworks, multimodal AI, and graph-based retrieval systems to stay at the cutting edge of production AI.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎡 Guest Intelligence Platform
@@ -99,6 +121,7 @@ Developed ETL pipelines and interactive Tableau dashboards to support retail and
 - Enabled self-service analytics for business stakeholders, improving marketing campaign performance
 
 ---
+
 **Key highlights across my career:**
 - Designed platforms processing **500M+ records/day** with enterprise-grade reliability
 - Delivered GenAI solutions (RAG, Agentic AI, LLM guardrails) in production environments
