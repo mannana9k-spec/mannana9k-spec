@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎡 Guest Intelligence Platform — Universal Orlando Resort
+### 🎡 Guest Intelligence Platform
 > **Stack:** Python, Kafka, Airflow, FastAPI, LangGraph, AutoGen, RAGAS, TruLens, FAISS, AWS SageMaker, Docker, Kubernetes, Prometheus, Grafana
 
 Built a production-grade ML and Agentic AI platform to analyze guest behavior, ride performance, and park operations in real time.
@@ -70,7 +70,7 @@ Built a production-grade ML and Agentic AI platform to analyze guest behavior, r
 
 ---
 
-### 👟 Global Survey Analytics Platform — Nike
+### 👟 Global Survey Analytics Platform
 > **Stack:** Python, Databricks (Delta Lake, Unity Catalog), Apache Spark, BERT, Hugging Face, FAISS, PyTorch, Airflow, Snowflake, Jenkins
 
 Led the full modernization of a global survey analytics platform serving 50+ markets, replacing a legacy SQL Server system.
@@ -81,7 +81,7 @@ Led the full modernization of a global survey analytics platform serving 50+ mar
 
 ---
 
-### 🏦 Enterprise Streaming Data Platform — MetLife
+### 🏦 Enterprise Streaming Data Platform
 > **Stack:** Python, Apache Spark, Kafka, Spark Structured Streaming, Hadoop (Hive, HBase), DB2, IBM MQ, Informatica
 
 Architected and maintained high-volume batch and near real-time data ingestion pipelines for enterprise reporting at scale.
@@ -91,7 +91,7 @@ Architected and maintained high-volume batch and near real-time data ingestion p
 
 ---
 
-### 🛍️ Retail Analytics & Automation — Cognizant / Client
+### 🛍️ Retail Analytics & Automation
 > **Stack:** Python, SQL, Alteryx, Tableau, Git
 
 Developed ETL pipelines and interactive Tableau dashboards to support retail and marketing analytics.
@@ -99,16 +99,6 @@ Developed ETL pipelines and interactive Tableau dashboards to support retail and
 - Enabled self-service analytics for business stakeholders, improving marketing campaign performance
 
 ---
-
-## 💼 Professional Experience
-
-| Period | Role | Client |
-|--------|------|--------|
-| Apr 2024 – Present | Senior AI/ML Engineer | Universal Orlando Resort (Remote) |
-| May 2022 – Mar 2024 | Senior Data Engineer (AI/ML Platform) | Nike, Beaverton OR |
-| Dec 2019 – May 2022 | Big Data Engineer | MetLife, Cary NC |
-| Jul 2018 – Dec 2019 | Data Engineer | Cognizant Technology Solutions, India |
-
 **Key highlights across my career:**
 - Designed platforms processing **500M+ records/day** with enterprise-grade reliability
 - Delivered GenAI solutions (RAG, Agentic AI, LLM guardrails) in production environments
@@ -120,12 +110,12 @@ Developed ETL pipelines and interactive Tableau dashboards to support retail and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannan3ng&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannan3ng&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mannana9k-spec&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannana9k-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan3ng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannana9k-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
