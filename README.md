@@ -144,7 +144,7 @@ Developed ETL pipelines and interactive Tableau dashboards to support retail and
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulmannan" target="_blank">
+  <a href="https://www.linkedin.com/in/mannanab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mannan3ng@gmail.com">
