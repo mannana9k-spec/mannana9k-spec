@@ -23,6 +23,11 @@
 - 🔍 Open to **Senior / Staff Data Engineer or AI/ML Engineer** roles — remote preferred
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ Tech Stack
 
